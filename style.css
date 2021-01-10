@@ -1,0 +1,47 @@
+#navbar {
+    text-align: right;
+    margin-top: 25px;
+    margin-right: 20px;
+}
+
+#gmail-link {
+    color: white;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+#images-link {
+    color: white;
+    margin-right: 30px;
+    text-decoration: none;    
+}
+
+#menu {
+    display: block;
+    float: right;
+    margin-top: 2px;
+    filter: invert(1); 
+}
+
+body{
+    background-color: rgb(52 52 52);
+}
+
+#google-logo {
+    text-align: center;
+    margin-top: 130px;
+}
+
+
+#search-bar {
+    margin: 300px 30%;
+    width: 500px;
+    border-radius: 30px;
+    border: 1px #000 solid;
+    padding: 15px 5px 15px 50px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 5;
+}
+
